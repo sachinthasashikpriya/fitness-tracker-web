@@ -1,0 +1,11 @@
+body {
+            background-image: url('images/finess\ 1.jpg'); /* Replace with your image URL */
+            background-size: cover;
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+.navbar {
+            background-color:transparent; /* Semi-transparent background for the navbar */
+        }
+    
